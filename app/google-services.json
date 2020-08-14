@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663602462533",
+    "firebase_url": "https://foodapp-be25f.firebaseio.com",
+    "project_id": "foodapp-be25f",
+    "storage_bucket": "foodapp-be25f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663602462533:android:eae76be4ff93a45dc3482c",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663602462533-8sqi36dgnsjob454l74gf2mpmg2gubv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzmPfic-luTpClG2s-A25_YVG60nm_hw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663602462533-8sqi36dgnsjob454l74gf2mpmg2gubv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
